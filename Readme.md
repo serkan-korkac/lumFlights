@@ -69,13 +69,14 @@ LumFlights Dashboard is an administrative platform designed for airline staff an
 - **Analytics Dashboard**: Provide insights into reservations and flight operations.
 - **Enhanced Authentication**: Implement features like two-factor authentication.
 
-## Users 
+### Users
+**Staff User**:
+username: staff1
+password: staff123
 ** Admin User **:
 username: admin
 password: admin123
 
-**Staff User**:
-username: staff1
-password: staff123
+
 ---
 
